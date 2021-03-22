@@ -1,0 +1,18 @@
+body{
+    font-size: 20px;
+    font-family:sans-serif;
+    padding: 0 10px;
+    background: #E9E1BA;
+    color: black;
+    text-align: justify;
+}
+h1{
+    font-size: 25px;
+}
+ 
+
+img{
+    width: 80%;
+    margin: auto;
+    display: block;
+}

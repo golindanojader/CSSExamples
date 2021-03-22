@@ -1,0 +1,22 @@
+img{
+	/*Inicia en la posicion del eje cero*/
+    position: absolute;
+}
+ 
+.vara{
+  left: 321px;
+  top: 472px;
+  /*manda la imagen en la parte trasera*/
+    z-index: 1;
+}
+
+.centro{
+    top: 284px;
+    left: 260px;
+    z-index: 3;
+}
+
+.veleta{
+ z-index: 2;
+}
+
